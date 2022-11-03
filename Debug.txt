@@ -1,0 +1,4 @@
+Debug 
+step 1: press the right button of mouse in java
+step 2: press run debug in HTML 
+step 3: press 
